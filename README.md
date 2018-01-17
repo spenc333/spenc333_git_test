@@ -9,3 +9,5 @@ Nate Olson
 
 olsonna3@msu.edu
 
+Casey Chartier
+charti23@msu.edu
